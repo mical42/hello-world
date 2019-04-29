@@ -1,2 +1,4 @@
 # hello-world
-learning
+learning!
+
+Hello all! I'm Michel, just learning how to use GitHub.
